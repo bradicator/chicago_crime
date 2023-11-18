@@ -5,4 +5,4 @@ The city of Chicago provides reported incidents of crime since 2001 (except murd
 
 Another useful link is [this](https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Beats-current-/aerh-rz74), which gives a map of police districts and beats.
 
-An explanation of crime code used in the data is (here)[https://gis.chicagopolice.org/pages/crime_details]
+An explanation of crime code used in the data is [here](https://gis.chicagopolice.org/pages/crime_details)
